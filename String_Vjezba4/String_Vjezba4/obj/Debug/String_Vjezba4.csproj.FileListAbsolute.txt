@@ -1,0 +1,8 @@
+C:\Users\linar\Documents\programiranje\String_Vjezba4\String_Vjezba4\bin\Debug\String_Vjezba4.exe.config
+C:\Users\linar\Documents\programiranje\String_Vjezba4\String_Vjezba4\bin\Debug\String_Vjezba4.exe
+C:\Users\linar\Documents\programiranje\String_Vjezba4\String_Vjezba4\bin\Debug\String_Vjezba4.pdb
+C:\Users\linar\Documents\programiranje\String_Vjezba4\String_Vjezba4\obj\Debug\String_Vjezba4.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\String_Vjezba4\String_Vjezba4\obj\Debug\String_Vjezba4.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\String_Vjezba4\String_Vjezba4\obj\Debug\String_Vjezba4.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\String_Vjezba4\String_Vjezba4\obj\Debug\String_Vjezba4.exe
+C:\Users\linar\Documents\programiranje\String_Vjezba4\String_Vjezba4\obj\Debug\String_Vjezba4.pdb
